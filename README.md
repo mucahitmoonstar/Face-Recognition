@@ -4,6 +4,7 @@ The dataset consists of face images from 31 distinct classes, each representing 
 This dataset is valuable for training a face recognition model, as it incorporates diverse demographics, genders, and features, ensuring the model learns to recognize faces in varying conditions. With prominent figures like Charlize Theron, Dwayne Johnson, Brad Pitt, Alexandra Daddario, and others, the dataset allows for a robust learning experience that spans age groups and diverse facial characteristics. 
 
 The mix of global celebrities and personalities in the dataset enhances its applicability to real-world scenarios, providing a foundation for models aiming for high accuracy in multi-class facial recognition tasks.
+
 https://www.kaggle.com/datasets/vasukipatel/face-recognition-dataset/data
 
 ![datasets-for-facial-recognition](https://github.com/user-attachments/assets/26829938-8f44-48e5-a1d4-bd08ca008723)
@@ -35,7 +36,7 @@ The top of the model includes fully connected (dense) layers. After flattening t
 
 
 
-**RESSULT***
+**RESSULT**
 
 Accuracy: 0.9698: This value indicates that the model achieved an impressive accuracy of approximately 96.98% on the training dataset. This means that out of all the training samples, about 97 out of 100 were correctly classified. Such high accuracy suggests that the model effectively learned to recognize the faces in the training data.
 
